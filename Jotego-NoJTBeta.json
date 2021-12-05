@@ -1,10 +1,10 @@
 {
-    "base_files_url": "https://raw.githubusercontent.com/jotego/jtcores_mister/b479c00c79c5bc8e801ef1ed73c4a079b2799e69/",
+    "base_files_url": "",
     "db_files": [
         "jtbindb.json.zip"
     ],
     "db_id": "jtcores",
-    "db_url": "https://raw.githubusercontent.com/jotego/jtcores_mister/main/jtbindb.json.zip",
+    "db_url": "https://github.com/birdybro/jtcores_mister/raw/jotego-NoJTBeta/jtbindb.json.zip",
     "default_options": {},
     "files": {
         "_Arcade/1941  Counter Attack -World 900227-.mra": {
@@ -3386,7 +3386,7 @@
         "_Arcade/cores": {}
     },
     "folders_count": 98,
-    "latest_zip_url": "https://github.com/jotego/jtcores_mister/archive/refs/heads/jtbin.zip",
+    "latest_zip_url": "",
     "timestamp": 1638740937,
     "zips": {}
 }
