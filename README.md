@@ -1,7 +1,7 @@
 # MiSTer_jsonDB
 Just some json DB files for Downloader use.
 
-## All Jotego Cores without a Paywall
+## All Jotego Cores without a Paywall (Just a Test! I learned on this, will delete later most likely)
 
 All Jotego cores and MRA's without the ones that have a JTBeta.zip requirement (paywalled). Add this line to downloader.ini in `/media/fat/Scripts/`:
 
